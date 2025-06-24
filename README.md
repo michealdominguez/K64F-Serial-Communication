@@ -1,6 +1,6 @@
 # K64F-Serial-Communication
 
-This project demonstrates real-time sensor communication using UART, SPI, and I²C protocols with the K64F microcontroller and the onboard FXOS8700CQ accelerometer/magnetometer sensor. Sensor data is transmitted to both a PC terminal and an Arduino Uno, showcasing how multiple embedded communication methods can be implemented and verified using a mixed signal oscilloscope.
+This project demonstrates real-time sensor communication using UART, SPI, and I²C protocols with the K64F microcontroller and the onboard FXOS8700CQ accelerometer/magnetometer sensor. Sensor data is transmitted to both a PC terminal and an Arduino Uno, showcasing how multiple embedded communication methods can be implemented and verified using a digital storage oscilloscope.
 
 Features
 I²C: Reads sensor data from the FXOS8700CQ  
